@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-OOP proyects and codes
+OOP projects and codes
